@@ -1,1 +1,1 @@
-
+Hi, I am Nikshep Doggalli, and I live in Bangalore, India. I have advanced coding skills in Python, JavaScript, HTML, CSS, and PostgreSQL, along with some knowledge of machine learning. I have created several projects, including MuchScript and PyServed. In my free time, I enjoy coding, playing chess. I also write blogs about software.
